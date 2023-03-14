@@ -289,7 +289,7 @@ func main() {
 ```
 
 #### Test on Postman
-- Previous
+- Before
 ![](https://i.imgur.com/YyxfDdY.png)
 - After
 ![](https://i.imgur.com/obO9m1a.png)
@@ -319,7 +319,7 @@ func main() {
     ...
 }
 ```
-#### Test om Postman and TablePlus
+#### Test on Postman and TablePlus
 ![](https://i.imgur.com/oFArOny.png)
 ![](https://i.imgur.com/rqwYUhF.png)
 
